@@ -1,5 +1,5 @@
 {
-  "name": "componentsjs-generator",
+  "name": "@comake/componentsjs-generator",
   "version": "3.1.1",
   "description": "Automatically generate component files from TypeScript classes for the Components.js dependency injection framework",
   "main": "index.js",
@@ -47,12 +47,12 @@
     "dependency injection",
     "typescript"
   ],
-  "author": "Ruben Taelman <rubensworks@gmail.com>",
-  "repository": "git@github.com:LinkedSoftwareDependencies/Components-Generator.js.git",
+  "author": "Adler Faulkner <adler@comake.io>",
+  "repository": "git@github.com:comake/Components-Generator.js.git",
   "bugs": {
-    "url": "https://github.com/LinkedSoftwareDependencies/Components-Generator.js/issues"
+    "url": "https://github.com/comake/Components-Generator.js/issues"
   },
-  "homepage": "https://github.com/LinkedSoftwareDependencies/Components-Generator.js#readme",
+  "homepage": "https://github.com/comake/Components-Generator.js#readme",
   "license": "MIT",
   "bin": {
     "componentsjs-generator": "bin/componentsjs-generator.js"
